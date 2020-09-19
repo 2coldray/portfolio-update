@@ -1,23 +1,24 @@
 /*Edit Navbar Name*/
 .navbar-brand {
-    background-color: mediumseagreen;
-    color: white !important;
+    /* background-color: mediumseagreen; */
+    color:dodgerblue !important;
     font-weight: bold;
 }
 
 /*Make text green*/
-.text-green {
-    color: mediumseagreen;
+.text-blue {
+    color: dodgerblue;
 }
 
 /*Set background image*/
 body {
-    background-image: url("../ignasi_pattern_s.png");
+    background-image: url("assets/images/ignasi_pattern_s.png");
+    background-color: white;
 }
 
 /*Make border on footer green*/
 .border-green {
-    border-color: mediumseagreen !important;
+    border-color: dodgerblue !important;
     border-width: 2px;
 }
 
