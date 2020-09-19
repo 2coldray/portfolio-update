@@ -6,7 +6,7 @@ This is my updated portfolio website. The styling has been altered from my first
 
 ## Installation
 
-1. Go to the website: 
+1. Go to the website: https://2coldray.github.io/portfolio-update/
 2. Click the different links in the Navbar to go to different pages.
 
 ## Usage

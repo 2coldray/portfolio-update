@@ -6,11 +6,11 @@ var cardHeader = $("<div>")
   .addClass("card-header text-center")
   .text("Weather Dashboard Application");
 var cardBody = $("<div>").addClass("card-body")
-
+var url = "https://user-images.githubusercontent.com/60899926/93659487-94715780-fa13-11ea-82d4-ee557acc7132.png";
 var cardImage = $("<img>")
   .attr(
     "src",
-    "file:///Users/rayshawnbray/Desktop/Screen%20Shot%202020-09-17%20at%2010.31.45%20PM.png"
+    url
   )
   .attr("style", "width: 500px")
 
@@ -31,7 +31,7 @@ var cardBody2 = $("<div>").addClass("card-body")
 var cardImage2 = $("<img>")
   .attr(
     "src",
-    "file:///Users/rayshawnbray/Desktop/Screen%20Shot%202020-09-12%20at%206.50.24%20PM.png"
+    "https://user-images.githubusercontent.com/60899926/93659473-6429b900-fa13-11ea-8ea2-d2d1cdeaca06.png"
   )
   .attr("style", "width: 500px")
 
