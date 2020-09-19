@@ -10,7 +10,7 @@ var url = "https://user-images.githubusercontent.com/60899926/93659487-94715780-
 var cardImage = $("<img>")
   .attr(
     "src",
-    url
+    "https://user-images.githubusercontent.com/60899926/93659487-94715780-fa13-11ea-82d4-ee557acc7132.png"
   )
   .attr("style", "width: 500px")
 
