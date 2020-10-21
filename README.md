@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my updated portfolio website. The styling has been altered from my first site and contains working links to my repositories. It also has screenshots of my two best assignments to date.
+This is my updated portfolio website. The styling has been altered from my first site and contains working links to my repositories. It also has screenshots of three of my best assignments to date.
 
 ## Installation
 
@@ -12,11 +12,10 @@ This is my updated portfolio website. The styling has been altered from my first
 ## Usage
 
 This is a screenshot of the Homepage:
-![Screen Shot 2020-09-19 at 12 28 33 AM](https://user-images.githubusercontent.com/60899926/93659171-97b71400-fa10-11ea-83bb-49e07dad2007.png)
-
+<img width="1268" alt="Screen Shot 2020-10-21 at 12 03 55 AM" src="https://user-images.githubusercontent.com/60899926/96671921-ff72be80-1330-11eb-9a6e-ac34071465c4.png">
 
 This is a screenshot of the Portfolio Page:
-![Screen Shot 2020-09-19 at 12 29 01 AM](https://user-images.githubusercontent.com/60899926/93659172-9be33180-fa10-11ea-91ac-6a6bcb7b9575.png)
+<img width="1274" alt="Screen Shot 2020-10-21 at 12 04 11 AM" src="https://user-images.githubusercontent.com/60899926/96671932-04d00900-1331-11eb-9477-908c602d7e57.png">
 
 This is a screenshot of the Contact Form:
 ![Screen Shot 2020-09-19 at 12 29 15 AM](https://user-images.githubusercontent.com/60899926/93659178-a1d91280-fa10-11ea-860a-f26e8c3cc371.png)
