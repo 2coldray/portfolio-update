@@ -14,8 +14,13 @@ var cardImage = $("<img>")
   )
   .attr("style", "width: 500px")
 
+var cardFooter = $("<div>").addClass("card-footer sticky text-center");
+var cardLink = $("<a>").attr("href", "https://github.com/2coldray/weather-dashboard").text("Github").attr("style", "margin-right: 10px");
+var cardSite = $("<a>").attr("href", "https://2coldray.github.io/weather-dashboard/").text("Application")
+
 //Append to Document
-cardBody.append(cardHeader, cardImage);
+cardFooter.append(cardLink, cardSite)
+cardBody.append(cardHeader, cardImage, cardFooter);
 card.append(cardBody);
 $("#image").append(card);
 
