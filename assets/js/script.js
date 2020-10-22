@@ -63,7 +63,7 @@ var cardBody3 = $("<div>").addClass("card-body")
 var cardImage3 = $("<img>")
   .attr(
     "src",
-    "/Users/rayshawnbray/gt-ft/homework/portfolio-update/assets/images/note-taker.png"
+    "assets/images/note-taker.png"
   )
   .attr("style", "width: 500px")
 
